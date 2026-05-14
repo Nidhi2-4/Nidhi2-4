@@ -25,7 +25,7 @@
 ### 🙋‍♀️ About me
 
 - 🤝 Open to: **SWE internships · open source contributions · hackathons**
-- 💬 Ask me about: **Coding · Coffee · Adventure · Universe**
+- 💬 Ask me about: **Coding · Coffee · Adventure · Or just having Fun**
 - 🌱 Currently learning: **DSA · Full-Stack · Software Development · Google Cloud**
 - ⚡ Fun fact: **If I'm not coding i might be doing some adventureous activity!**
 
