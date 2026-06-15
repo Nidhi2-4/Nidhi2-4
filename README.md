@@ -78,7 +78,7 @@
 - Researched 50+ keywords, wrote SEO-optimized blogs improving organic search visibility
 - Created 10+ LinkedIn posts & Instagram scripts, contributing to 10% audience reach growth
 
-**🎨 Lead Graphic Designer** · *ACM, RBU Tech Club, Sports Club, Nagpur* · Feb 2025 – Present
+**🎨 Lead Graphic Designer** · *ARCEON-Magazine Committee, Sports Club, ACM, Techical Club, Nagpur* · Feb 2025 – Present
 - Improved social media engagement by **35%** through interactive design content
 - Curated 7+ alumni stories for ARCEON magazine, reaching 800+ students
 
