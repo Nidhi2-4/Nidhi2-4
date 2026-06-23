@@ -75,6 +75,8 @@
 ### 💼 Experience
 
 **💻 Full Stack Developer Assistant Inten** · *BeRam Drones, Nagpur(on-site)* · June 2026 - Present 
+- Working on real life projects which create an impact.
+- Contributing to some meaningful projects.
 
 **✍️ Content Writer Intern** · *Cop&Drop, Bangalore (Remote)* · Dec 2025 – Present
 - Researched 50+ keywords, wrote SEO-optimized blogs improving organic search visibility
