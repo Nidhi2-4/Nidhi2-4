@@ -65,6 +65,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [🚀 AeroKeep](https://github.com/Nidhi2-4/AeroKeep) | Full-stack inventory management system for AI-powered UAV operations featuring JWT authentication, RBAC, QR labels, analytics, and audit trails. | Node.js · React.js · Prisma ORM · PostgreSQL |
 | [📋 SevaLog](https://github.com/Nidhi2-4/SevaLog) | Proof-of-work platform for informal workers — hash-chain audit logs, trust score algorithm, 60% reduction in manual verification | TypeScript · React · Supabase · PostgreSQL |
 | [⚕️ ER Emergency Room Optimizer](https://github.com/Nidhi2-4/ER-Emergency-Room-Optimizer) | Hospital dashboard with 5 DSA algorithms, 5 role-based tabs for patient triage & ward management | TypeScript · React · Python · Tailwind |
 | [🔐 Smart Intrusion Detection](https://github.com/Nidhi2-4/Smart_Intrusion_Detection-System) | IoT security system with 4 hardware components, 5 automated safety responses on ESP32 | C++ · ESP32 · Wokwi |
